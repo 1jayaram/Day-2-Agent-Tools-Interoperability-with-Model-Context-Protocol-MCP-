@@ -1,4 +1,4 @@
-# Day-2-Agent-Tools-Interoperability-with-Model-Context-Protocol-MCP-
+# Day 2 Agent Tools Interoperability with Model Context Protocol MCP
 
 During the 5-Day AI Agents Intensive Course with Google, I explored the Agent tools interoperability with MCP by completing codelabs on Kaggle.
 
